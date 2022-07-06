@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "managuideaws",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "/Users/vito.royeca/workspace/Vito Royeca/ManaGuide/managuide-aws/amplify/backend/api/managuideaws/schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7
+    }
+  }
+}
